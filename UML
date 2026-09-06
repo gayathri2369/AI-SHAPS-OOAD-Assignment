@@ -1,0 +1,33 @@
+Use_Case_Diagram.md
+
+Use Case Diagram of AI-SHAPS showing Patient, Doctor, Admin, Lab and Pharmacy interactions.
+
+Class_Diagram.md
+
+Class Diagram with Patient, Doctor, Appointment, Prescription, LaboratoryReport and relationships.
+
+Sequence_Diagram.md
+
+Sequence Diagram for booking an appointment.
+
+Activity_Diagram.md
+
+Activity Diagram showing appointment booking workflow.
+
+State_Diagram.md
+
+Appointment states: Requested → Confirmed → Completed/Cancelled.
+
+Package_Diagram.md
+
+System modules: Patient, Doctor, Appointment, Lab, Pharmacy and Admin.
+
+Component_Diagram.md	
+
+Components: Web App, AI Module, Database and Notification Service.
+
+Deployment_Diagram.md
+
+	
+
+Client, Web Server, AI Server and Database deployment.
